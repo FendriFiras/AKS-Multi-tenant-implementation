@@ -55,7 +55,7 @@ This groups are created and managed by Azure AD and implemented to AKS by enabli
 
 ### Project Architecture
 <div style="text-align:center">
-  <img src="img/arch.png" alt="Screenshot">
+  <img src="img/arch2.png" alt="Screenshot">
 </div>
 
 ### Starting the Project
